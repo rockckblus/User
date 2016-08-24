@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"http_proxy": "",
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"JsFormat",
+		"Local History",
+		"Package Control"
+	]
+}
