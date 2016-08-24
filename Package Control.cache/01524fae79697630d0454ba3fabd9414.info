@@ -1,4 +1,9 @@
 {
+<<<<<<< Updated upstream
     "etag": "\"57bcef3f-41679\"", 
     "last-modified": "Wed, 24 Aug 2016 00:50:07 GMT"
+=======
+    "last-modified": "Wed, 24 Aug 2016 00:40:07 GMT", 
+    "etag": "\"57bcece7-41344\""
+>>>>>>> Stashed changes
 }
