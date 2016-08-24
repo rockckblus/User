@@ -8,6 +8,11 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"BufferScroll",
 		"DocBlockr",
 		"Emmet",
 		"GitGutter",
