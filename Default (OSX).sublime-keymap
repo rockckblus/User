@@ -12,6 +12,10 @@
 	}, {
 		"keys": ["super+]"],
 		"command": "jump_forward"
+	}, {
+		"keys": ["super+0"],
+		"command": "toggle_distraction_free"
 	},
-
+	{ "keys": ["super+4"], "command": "goto_python_definition"},
+	{ "keys": ["ctrl+4"], "command": "back_to_python_definition"}
 ]
