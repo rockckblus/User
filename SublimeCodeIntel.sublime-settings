@@ -10,9 +10,9 @@
         "JavaScript": {
             "codeintel_scan_extra_dir": [],
             "codeintel_scan_exclude_dir":["/build/", "/min/"],
-            "codeintel_scan_files_in_project": false,
+            "codeintel_scan_files_in_project": true,
             "codeintel_max_recursive_dir_depth": 2,
-            "codeintel_selected_catalogs": ["JavaScript","jQuery"]
+            "codeintel_selected_catalogs": ["JavaScript"]
         },
         "PHP": {
             "php": "/Applications/MAMP/bin/php/php5.5.3/bin/php",

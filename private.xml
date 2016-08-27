@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+	<name>alt change apple</name>
+<appendix>volume&music</appendix>
+<identifier>remap.volumeKeys</identifier>
+        <autogen>__KeyToKey__ KeyCode::COMMAND_L, KeyCode::OPTION_L</autogen>  
+        <autogen>__KeyToKey__ KeyCode::OPTION_L, KeyCode::COMMAND_L</autogen>  
+        <autogen>__KeyToKey__ KeyCode::CURSOR_UP, KeyCode::SHIFT_R</autogen>  
+</item>
+</root>
